@@ -1,6 +1,9 @@
 Simple Documentation Tutorial
 =============================
-This is my experimenting with the tutorial at https://youtu.be/oJsUvBQyHBs
+This is my experimenting with the tutorial at https://youtu.be/oJsUvBQyHBs.  What's also 
+cool is that it's supposed to be using my markdown files, so I can compose using the 
+system which I'm used to.  This is described here: https://blog.readthedocs.com/adding-markdown-support/.
+
 
 Another Simple Header
 =====================
