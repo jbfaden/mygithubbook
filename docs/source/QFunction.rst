@@ -10,10 +10,13 @@ exampleInput() returns an example of an input used for the function.
 This allows for discovery of the function, identifying units, valid
 ranges, and cadences for inputs.
 
-| `` interface QFunction {``
-| ``   QDataSet value( QDataSet in );   // rank 1 input of N parameters and rank 1 output of M values.``
-| ``   QDataSet exampleInput();``
-| `` }``
+```
+interface QFunction {
+   QDataSet value( QDataSet in );   // rank 1 input of N parameters and rank 1 output of M values.
+   QDataSet exampleInput();
+}
+```
+and then there's another code block:
 
 | `` class DemoFunction implements QFunction {``
 | ``   public QDataSet value( QDataSet in ) {``
