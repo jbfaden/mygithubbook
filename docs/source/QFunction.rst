@@ -1,4 +1,5 @@
 Definitive Page On QFunctions
+=============================
 
 A QFunction is a representation for a data function that tries to reuse
 as much of the QDataSet interface as possible. A QFunction takes N
