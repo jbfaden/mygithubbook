@@ -1,4 +1,4 @@
-# Definitive Page On QFunctions
+## Definitive Page On QFunctions
 
 A QFunction is a representation for a data function that tries to reuse
 as much of the QDataSet interface as possible. A QFunction takes N
@@ -66,7 +66,7 @@ Here is how QDataSet properties are interpreted in this case:
     * slice(0) is the first argument, slice(1) would be the second, etc.
     * This would be a bundle.
 ```
-#  Rank handling 
+###  Rank handling 
 
 QFunctions have two methods: value() and values(). `value` always takes
 a rank 1 bundle. Even if this is just one parameter, then this must be a
