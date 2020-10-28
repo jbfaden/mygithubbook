@@ -9,6 +9,8 @@ Here is some text explaining some very complicated stuff.  Version 3.
     print 'hello'
     >> hello
 
+I really don't understand where it's getting "contact" from!
+
 Guide
 ^^^^^
 
@@ -17,7 +19,7 @@ Guide
 
    license
    help
-   QFunction
+   qfunction
 
 
 Indices and tables
