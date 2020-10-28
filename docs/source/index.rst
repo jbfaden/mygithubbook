@@ -17,6 +17,7 @@ Guide
 
    license
    help
+   QFunction
 
 
 Indices and tables
