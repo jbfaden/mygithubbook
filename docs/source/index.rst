@@ -4,7 +4,7 @@ Simple Documentation Tutorial: Doctut
 Another Simple Header
 =====================
 
-Here is some text explaining some very complicated stuff.::
+Here is some text explaining some very complicated stuff.  Version 2.
 
     print 'hello'
     >> hello
