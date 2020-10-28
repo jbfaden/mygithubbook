@@ -12,8 +12,8 @@ Here is some text explaining some very complicated stuff.  Version 3.
 
     print 'hello'
     >> hello
-
-I really don't understand where it's getting "contact" from!
+    
+For some reason it is still not getting the headers from qfunction.md...
 
 Guide
 ^^^^^
